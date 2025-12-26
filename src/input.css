@@ -1,4 +1,8 @@
 @import "tailwindcss";
-.b1 {
+.b {
     border: 1px solid #FFC464;
+}
+
+.b1 {
+    border: 1px solid #A95094;
 }
