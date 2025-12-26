@@ -6,3 +6,10 @@
 .b1 {
     border: 1px solid #A95094;
 }
+
+.dbg {
+    background-image: url("./фон.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
